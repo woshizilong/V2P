@@ -1,0 +1,54 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - CocoaLumberjack (2.0.0):
+    - CocoaLumberjack/Default (= 2.0.0)
+    - CocoaLumberjack/Extensions (= 2.0.0)
+  - CocoaLumberjack/Core (2.0.0)
+  - CocoaLumberjack/Default (2.0.0):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.0.0):
+    - CocoaLumberjack/Default
+  - JSONKit (1.5pre)
+  - KVOController (1.0.3)
+  - Mantle (2.0.2):
+    - Mantle/extobjc (= 2.0.2)
+  - Mantle/extobjc (2.0.2)
+  - pop (1.0.7)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5)
+  - CocoaLumberjack (~> 2.0)
+  - JSONKit (= 1.5pre)
+  - KVOController (~> 1.0)
+  - Mantle (~> 2.0)
+  - pop (~> 1.0)
+  - Reachability (~> 3.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  CocoaLumberjack: a6f77d987d65dc7ba86b0f84db7d0b9084f77bcb
+  JSONKit: bae313ce6a6c444f40489a6c0b023f399888871f
+  KVOController: 9fd8f0343670994e4b6f9f0b31f5a45663f3e1cf
+  Mantle: 967fd31ea0220890b2e76589198996b534bb3fb1
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+COCOAPODS: 0.37.1

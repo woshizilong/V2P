@@ -1,0 +1,28 @@
+
+
+
+
+# OSX only
+#崩溃分析
+#pod 'CrashlyticsFrameworkOSX', '~> 3.0'
+#Json正反解析工具
+pod 'JSONKit', '1.5pre'
+#JSON-Object转换工具
+pod 'Mantle', '~> 2.0'
+
+# iOS and OSX
+#网络环境监测
+pod 'Reachability', '~> 3.2'
+#网络访问蜜糖
+pod 'AFNetworking', '~> 2.5'
+#Facebook出品的动画库
+pod 'pop', '~> 1.0'
+#Facebook出品的KVO操作库
+pod 'KVOController', '~> 1.0'
+#CoreData操作的蜜糖
+#pod 'MagicalRecord', '~> 2.3'
+#Block化的附加方法
+#pod 'BlocksKit', '~> 2.2'
+
+#日志库
+pod 'CocoaLumberjack', '~> 2.0'
